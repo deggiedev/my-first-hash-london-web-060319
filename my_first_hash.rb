@@ -1,5 +1,5 @@
 def my_hash
-  chelsea_titles = {"Premiere League" => "2016/17", premi
+  chelsea_titles = {"Premiere League" => "2016/17", "premiere league" => "2015/15"}
 
   
 end
